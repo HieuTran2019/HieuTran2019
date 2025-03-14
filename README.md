@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Hieu</h1>
+
 # 💫 About Me:
 🌱 I’m currently learning **AI, Embedded Systems, ROS**<br>👨‍💻 All of my projects are available at [https://github.com/HieuTran2019?tab=repositories](https://github.com/HieuTran2019?tab=repositories)<br>📫 How to reach me hieu.aio2023@gmail.com<br><br>
 
